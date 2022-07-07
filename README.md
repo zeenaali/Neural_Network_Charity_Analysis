@@ -47,7 +47,7 @@ How many neurons, layers, and activation functions did you select for your neura
                         
 Were you able to achieve the target model performance?
 
-Yes. After few configurations I was able to achieve the target model performance. The model accuracy improved to 76.30%. Figures below show accuracy score after optimization at 76.30% and before optimization at 72.41%.
+Yes. After few configurations I was able to achieve the target model performance. The model accuracy improved to 76.30%. Figures below show accuracy score after optimization at 76.30% and before optimization at 72.61%.
 
 <img width="919" alt="Screen Shot 2022-07-07 at 1 05 16 PM" src="https://user-images.githubusercontent.com/99419112/177870193-f3c562ca-fa66-48a8-a0bd-60e4443ea96a.png">
 
@@ -72,7 +72,7 @@ In order to increase model performance, I took the following steps:
 
 Summary of the results
 
-The model loss and accuracy score tell us how well the model does with the dataset and parameters that we build the model. Loss score is equal to 0.609, meaning the probability model to fail is 60.89% and accuracy score is 0.7630, meaning that the probability model to be accurate is 76.30%.
+The model loss and accuracy score tell us how well the model does with the dataset and parameters that we build the model. Loss score is equal to 0.668, meaning the probability model to fail is 66.82% and accuracy score is 0.7630, meaning that the probability model to be accurate is 76.30%.
 
 Recommendation for further analysis
 
